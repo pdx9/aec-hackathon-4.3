@@ -6,4 +6,4 @@ Project:  ParTrack
 
 Purpose:  Track building materials and components using attached QR codes and smart devices to geo-locate items from factory to jobsite, and coordinate related messaging.
 
-The [demo page](https://pdx9.github.io/code/scan2site) uses WebVR framework "[A-Frame](https://aframe.io)" to display 3D objects in browsers and VR headsets.
+The [demo page](http://pdx9.com/code/partrack) uses the [A-Frame](https://aframe.io) WebVR framework to display 3D objects in browsers, VR headsets and VR-enabled smartphones.
